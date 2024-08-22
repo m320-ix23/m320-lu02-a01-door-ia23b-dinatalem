@@ -99,7 +99,7 @@ class Door:
     def color(self, new_color):
         """
         setter-Methode für die Eigenschaft color
-        :param new_color:
+        :param new_color: Push machen
         """
         self._color = new_color
 
